@@ -17,6 +17,7 @@ fn main() {
     println!("Now calculating fib for n={}",n);
     let ans = calc_fib(n);
     println!("ans={}", ans);
+    
 }
 
 fn get_input(mut buffer: String) -> String {
