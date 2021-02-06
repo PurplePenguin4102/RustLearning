@@ -9,4 +9,4 @@
 > cargo build
 > cargo build --release
 > cargo run
-> carge check
+> cargo check
