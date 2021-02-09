@@ -7,6 +7,11 @@
 
 //compiling and running rust projects
 > cargo build
+
 > cargo build --release
+
 > cargo run
+
 > cargo check
+
+> cargo new --lib restaurant
