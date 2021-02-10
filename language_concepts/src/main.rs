@@ -6,7 +6,8 @@ fn main() {
     functions();
     control_flow();
 
-    println!("{:?}", String::from("出来た!!"));
+    let s = String::from("出来た!!");
+    println!("出来た!!");
 }
 
 fn section_header(name: String) {
